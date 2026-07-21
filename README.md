@@ -23,18 +23,6 @@ A special thanks to **DP Education IT Campus** and their comprehensive **Flutter
 
 ---
 
-## 📂 Project Structure Highlights
-
-lib/
-│
-├── pages/           # Application screens (Bookings, Cultural, home_page, land_mark, natural_wonders, night_life)
-├── utils/           # color palettes
-├── utils/           # Utility files, color palettes, and global constants
-└── widgets/home     # category_card
-├── widgets/resuble  # custome_button, image_card, landmark_card, star_box, vehicle_card
-├── main.dart
-
----
 
 ## 📸 App Screenshots
 <p align="center">
@@ -45,3 +33,16 @@ lib/
   <img src="screenshots/cultural.png" width="30%" alt="Cultural Page" />
   <img src="screenshots/booking.png" width="30%" alt="Booking Page" />
 </p>
+
+---
+
+## 📂 Project Structure Highlights
+```text
+lib/
+│
+├── pages/           # Application screens (Bookings, Cultural, home_page, land_mark, natural_wonders, night_life)
+├── utils/           # color palettes
+├── utils/           # Utility files, color palettes, and global constants
+└── widgets/home     # category_card
+├── widgets/resuble  # custome_button, image_card, landmark_card, star_box, vehicle_card
+├── main.dart
