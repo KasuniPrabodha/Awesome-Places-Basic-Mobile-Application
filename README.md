@@ -24,7 +24,7 @@ A special thanks to **DP Education IT Campus** and their comprehensive **Flutter
 ---
 
 ## 📂 Project Structure Highlights
-```text
+
 lib/
 │
 ├── pages/           # Application screens (Bookings, Cultural, home_page, land_mark, natural_wonders, night_life)
