@@ -34,7 +34,7 @@ lib/
 ├── widgets/resuble  # custome_button, image_card, landmark_card, star_box, vehicle_card
 ├── main.dart
 
-
+---
 ## 📸 App Screenshots
 <p align="center">
   <img src="screenshots/home.png" width="30%" alt="Home Screen" />
