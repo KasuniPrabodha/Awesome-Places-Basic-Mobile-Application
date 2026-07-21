@@ -35,6 +35,7 @@ lib/
 ├── main.dart
 
 ---
+
 ## 📸 App Screenshots
 <p align="center">
   <img src="screenshots/home.png" width="30%" alt="Home Screen" />
