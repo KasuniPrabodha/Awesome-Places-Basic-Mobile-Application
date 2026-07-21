@@ -33,3 +33,16 @@ lib/
 └── widgets/home     # category_card
 ├── widgets/resuble  # custome_button, image_card, landmark_card, star_box, vehicle_card
 ├── main.dart
+
+---
+
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/home.png" width="30%" alt="Home Screen" />
+  <img src="screenshots/natural_wonders.png" width="30%" alt="Natural Wonders Page" />
+  <img src="screenshots/night_life.png" width="30%" alt="Night Life Page" />
+  <img src="screenshots/land_mark.png" width="30%" alt="Land Mark Page" />
+  <img src="screenshots/cultural.png" width="30%" alt="Cultural Page" />
+  <img src="screenshots/booking.png" width="30%" alt="Booking Page" />
+</p>
