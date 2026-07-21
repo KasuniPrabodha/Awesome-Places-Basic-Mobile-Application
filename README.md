@@ -27,6 +27,9 @@ A special thanks to **DP Education IT Campus** and their comprehensive **Flutter
 ```text
 lib/
 │
-├── pages/         # Application screens (Home, Bookings, Cultural, etc.)
-├── utils/         # Utility files, color palettes, and global constants
-└── widgets/       # Reusable UI components (Cards, Buttons, Custom Boxes)
+├── pages/           # Application screens (Bookings, Cultural, home_page, land_mark, natural_wonders, night_life)
+├── utils/           # color palettes
+├── utils/           # Utility files, color palettes, and global constants
+└── widgets/home     # category_card
+├── widgets/resuble  # custome_button, image_card, landmark_card, star_box, vehicle_card
+├── main.dart
