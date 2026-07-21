@@ -1,17 +1,32 @@
-# app04
+# Awesome Places - Basic Mobile Application 📱
 
-A new Flutter project.
+A foundational mobile application developed as part of the **Flutter Series** by **DP Education IT Campus**. This project demonstrates core Flutter and Dart concepts, clean UI structuring, and effective state management for building interactive mobile user interfaces.
 
-## Getting Started
+## 🌟 Acknowledgments & Credits
 
-This project is a starting point for a Flutter application.
+A special thanks to **DP Education IT Campus** and their comprehensive **Flutter Series**. The guidance, tutorials, and concepts taught throughout the series provided the fundamental knowledge and technical foundation required to build and structure this mobile application successfully.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🚀 Features
+* Clean and responsive user interface built with Flutter widgets.
+* Well-structured navigation and page routing (`home`, `bookings`, `cultural`, `natural_wonders`, `night_life`, etc.).
+* Custom reusable components, cards, and buttons for a consistent design system.
+* Optimized assets and layout structures designed for mobile platforms.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+* **Framework:** [Flutter](https://flutter.dev/)
+* **Language:** [Dart](https://dart.dev/)
+* **IDE:** Visual Studio Code / Android Studio
+
+---
+
+## 📂 Project Structure Highlights
+```text
+lib/
+│
+├── pages/         # Application screens (Home, Bookings, Cultural, etc.)
+├── utils/         # Utility files, color palettes, and global constants
+└── widgets/       # Reusable UI components (Cards, Buttons, Custom Boxes)
